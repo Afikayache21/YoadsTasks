@@ -1,0 +1,6 @@
+@Full_Stack_Developer_Home_Assignment_HostAddress = http://localhost:5225
+
+GET {{Full_Stack_Developer_Home_Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
